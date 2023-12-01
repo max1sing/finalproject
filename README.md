@@ -1,5 +1,3 @@
-# finalproject
-
 # *This is a tutorial of how to add color to text in markdown on Github.*
 ## By: Max Ising  
 ### The purpose of this tutorial is to show the basics of text in markdown, and to make the tutorial easier there will be pictures included.  
